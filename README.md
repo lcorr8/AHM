@@ -7,4 +7,4 @@ This is an example site for AHM, for practice purpose.
 
 # Contact
 
-email: l.corr.v@gmail.com
+https://github.com/lcorr8
